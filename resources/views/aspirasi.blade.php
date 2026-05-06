@@ -25,11 +25,6 @@
             @csrf
 
             <div class="mb-3">
-                <label>Nama</label>
-                <input type="text" name="nama" class="form-control" required>
-            </div>
-
-            <div class="mb-3">
                 <label>Angkatan</label>
                 <input type="text" name="angkatan" class="form-control" placeholder="Contoh: 2023" required>
             </div>
